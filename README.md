@@ -1,35 +1,5 @@
 # Testing a website
 
-## Story
-
-Welcome to your first team-work project in this course.
-From this week on, you are going to work in teams (4-5 people).
-These exercises will simulate a real-life experience.
-In a QA team, it is not uncommon that more testers work on the same product.
-So the earlier you get used to working as a team, the better you will be able to communicate, solve problems, and
-become excellent team-players. The System Under Test (SUT) this time will be the famous Internet Movie Database,
-aka the [IMDb website](https://www.imdb.com/).
-In the tasks list, you will find user stories that your team needs to write test cases for.
-
-### Expectations
-
-- Use Excel tables for your test cases
-- Everyone on the team must work with the same format and in the same document - eg. Google Sheets
-- Design tests consciously, based on ISTQB suggestions
-- Make sure your Manual Test Cases can be executed by other Testers, even without the knowledge of the specific software
-- Use a critical approach about the software, feel free to open a Bug in the Bug Tracking Project if:
-
-    - something is not working that was specified in the Requirements
-    - you experience suspicious behaviour
-
-## What are you going to learn?
-
-- Analyze and test a yet unknown software/website
-- Design and implement manual test cases for functions
-- Report Bugs (in Jira)
-- Practicing your knowledge based on ISTQB suggestions
-- Critical thinking
-
 ## Tasks
 
 1. Successful login to the IMDb account with
